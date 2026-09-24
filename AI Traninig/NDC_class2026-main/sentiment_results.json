@@ -1,0 +1,62 @@
+[
+  {
+    "headline": "ICC not investigating Nigeria for crimes against humanity \u2014 AGF Fagbemi, SAN",
+    "sentiment": "NEUTRAL",
+    "confidence": 0.8,
+    "reason": "The headline reports a factual statement without emotional tone or bias."
+  },
+  {
+    "headline": "FDA hails DSS\u2019 pause on Sowore\u2019s alleged cybercrime case",
+    "sentiment": "POSITIVE",
+    "confidence": 0.7,
+    "reason": "The use of 'hails' implies approval and appreciation for the DSS's action."
+  },
+  {
+    "headline": "FG prosecutes Ogoni leader over alleged oil well seizure, cybercrime",
+    "sentiment": "NEUTRAL",
+    "confidence": 0.9,
+    "reason": "The headline reports a factual event without emotional tone or bias."
+  },
+  {
+    "headline": "Cybercrime: DSS suspends Sowore prosecution until after 2027 polls",
+    "sentiment": "NEUTRAL",
+    "confidence": 0.8,
+    "reason": "The headline reports a factual statement without emotional tone or bias."
+  },
+  {
+    "headline": "Mining Marshals defend Stone Rockers quarry closure, say site remains crime scene",
+    "sentiment": "NEUTRAL",
+    "confidence": 0.8,
+    "reason": "The headline reports a factual statement without emotional tone or bias."
+  },
+  {
+    "headline": "Alleged cybercrime: DSS directs counsel to seek adjournment in Sowore\u2019s prosecution until after 2027 presidential election",
+    "sentiment": "NEUTRAL",
+    "confidence": 0.9,
+    "reason": "The headline reports a factual statement without emotional tone or bias."
+  },
+  {
+    "headline": "Lagos court jails two over money laundering, cybercrime",
+    "sentiment": "NEUTRAL",
+    "confidence": 0.8,
+    "reason": "The headline reports a factual event without emotional tone or bias."
+  },
+  {
+    "headline": "Police bust cybercrime syndicates over N3.62bn investment fraud, romance scams",
+    "sentiment": "POSITIVE",
+    "confidence": 0.9,
+    "reason": "The use of 'bust' implies a successful law enforcement action."
+  },
+  {
+    "headline": "Surge in betting fuels poverty and crime across West Africa \u2013 Nextier report",
+    "sentiment": "NEGATIVE",
+    "confidence": 0.8,
+    "reason": "The headline associates betting with negative consequences like poverty and crime."
+  },
+  {
+    "headline": "US revokes over 175,000 visas under Trump over \u2018crimes, immigration violations\u2019",
+    "sentiment": "NEUTRAL",
+    "confidence": 0.7,
+    "reason": "The headline reports a factual event without emotional tone or bias, although the context is negative."
+  }
+]
